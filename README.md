@@ -13,7 +13,7 @@ Welcome to the GitHub profile of **Dominik Bacher**.
 
 <!-- First Row -->
 <div>
-  <div style="float: left; width: 33%; padding: 1%;">
+  <div style="float: left; width: 33%; padding: 1%; display: flex;">
     <a href="link_to_project_1">
       <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
     </a>
