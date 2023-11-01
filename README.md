@@ -15,17 +15,17 @@ Welcome to the GitHub profile of **Dominik Bacher**.
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td><a href="https://github.com/dominik117/cortexia_darkzones_prediction"><img src="images/cortexia_darkzones_prediction/main.png" alt="Cortexia Darkzones P
+    <td><a href="https://github.com/dominik117/cortexia_darkzones_prediction", target="_blank"><img src="images/cortexia_darkzones_prediction/main.png" alt="Cortexia Darkzones P
     rediction"></a></td>
-    <td><a href="https://github.com/dominik117/IMDb_NLP_Insighter"><img src="images/IMDb_NLP_Insighter/main.png" alt="IMDb NLP Insighter"></a></td>
+    <td><a href="https://github.com/dominik117/IMDb_NLP_Insighter", target="_blank"><img src="images/IMDb_NLP_Insighter/main.png" alt="IMDb NLP Insighter"></a></td>
   </tr>
   <tr>
-    <td><a href="link_to_project_3"><img src="images/cortexia_darkzones_prediction/main.png" alt="Project 3"></a></td>
-    <td><a href="link_to_project_4"><img src="images/cortexia_darkzones_prediction/main.png" alt="Project 4"></a></td>
+    <td><a href="https://github.com/dominik117/", target="_blank"><img src="images/main.png" alt="Project 3"></a></td>
+    <td><a href="https://github.com/dominik117/", target="_blank"><img src="images/main.png" alt="Project 4"></a></td>
   </tr>
   <tr>
-    <td><a href="link_to_project_5"><img src="images/cortexia_darkzones_prediction/main.png" alt="Project 5"></a></td>
-    <td><a href="link_to_project_6"><img src="images/cortexia_darkzones_prediction/main.png" alt="Project 6"></a></td>
+    <td><a href="https://github.com/dominik117/", target="_blank"><img src="images/main.png" alt="Project 5"></a></td>
+    <td><a href="https://github.com/dominik117/", target="_blank"><img src="images/main.png" alt="Project 6"></a></td>
   </tr>
 </table>
 
