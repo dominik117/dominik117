@@ -31,4 +31,7 @@ Welcome to the GitHub profile of **Dominik Bacher**.
 
 _Images created using DALL·E 3._
 
+
 Thanks for stopping by!
+
+_Don't forget to star a repo you find interesting._
