@@ -1,16 +1,59 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**dominik117/dominik117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the GitHub profile of **Dominik Bacher**.
 
-Here are some ideas to get you started:
+## About Me:
+- 🖥️ Computer Engineer
+- 📊 Data Scientist
+- 🚀 Programming Aficionado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+
+## My Top 6 Projects:
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="width: 30%; margin: 1%;">
+    <a href="link_to_project_1">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+    </a>
+    <p align="center">Cortexia Darkzones Prediction</p>
+  </div>
+  
+  <div style="width: 30%; margin: 1%;">
+    <a href="link_to_project_1">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+    </a>
+    <p align="center">Cortexia Darkzones Prediction</p>
+  </div>
+  
+  <div style="width: 30%; margin: 1%;">
+    <a href="link_to_project_1">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+    </a>
+    <p align="center">Cortexia Darkzones Prediction</p>
+  </div>
+  
+  <div style="width: 30%; margin: 1%;">
+    <a href="link_to_project_1">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+    </a>
+    <p align="center">Cortexia Darkzones Prediction</p>
+  </div>
+  
+  <div style="width: 30%; margin: 1%;">
+    <a href="link_to_project_1">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+    </a>
+    <p align="center">Cortexia Darkzones Prediction</p>
+  </div>
+  
+  <div style="width: 30%; margin: 1%;">
+    <a href="link_to_project_1">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+    </a>
+    <p align="center">Cortexia Darkzones Prediction</p>
+  </div>
+</div>
+
+_Images created using DALL·E 3._
+
+Thanks for stopping by!
