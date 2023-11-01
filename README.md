@@ -7,7 +7,7 @@ Welcome to the GitHub profile of **Dominik Bacher**.
 ## About Me:
 - :computer: Computer Engineer
 - :bar_chart: Data Scientist
-- :man_technologist: Programming Aficionado
+- :man_technologist::skin-tone-1: Programming Aficionado
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
 
