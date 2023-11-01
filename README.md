@@ -17,7 +17,7 @@ Welcome to the GitHub profile of **Dominik Bacher**.
   <tr>
     <td><a href="https://github.com/dominik117/cortexia_darkzones_prediction"><img src="images/cortexia_darkzones_prediction/main.png" alt="Cortexia Darkzones P
     rediction"></a></td>
-    <td><a href="https://github.com/dominik117/IMDb_NLP_Insighter"><img src="IMDb_NLP_Insighter/main.png" alt="IMDb NLP Insighter"></a></td>
+    <td><a href="https://github.com/dominik117/IMDb_NLP_Insighter"><img src="images/IMDb_NLP_Insighter/main.png" alt="IMDb NLP Insighter"></a></td>
   </tr>
   <tr>
     <td><a href="link_to_project_3"><img src="images/cortexia_darkzones_prediction/main.png" alt="Project 3"></a></td>
