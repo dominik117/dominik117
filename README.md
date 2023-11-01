@@ -5,9 +5,9 @@ Welcome to the GitHub profile of **Dominik Bacher**.
 ![Your gif description](path_to_your_gif.gif)
 
 ## About Me:
-- 🖥️ Computer Engineer
-- 📊 Data Scientist
-- 👨🏻‍💻 Programming Aficionado
+- :computer: Computer Engineer
+- :bar_chart: Data Scientist
+- :man_technologist: Programming Aficionado
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
 
