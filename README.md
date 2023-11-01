@@ -20,7 +20,7 @@ Welcome to the GitHub profile of **Dominik Bacher**.
     <td><a href="https://github.com/dominik117/IMDb_NLP_Insighter", target="_blank"><img src="images/IMDb_NLP_Insighter/main.png" alt="IMDb NLP Insighter"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/dominik117/", target="_blank"><img src="images/main.png" alt="Project 3"></a></td>
+    <td><a href="https://github.com/dominik117/swiss-real-estate-analysis", target="_blank"><img src="images/swiss-real-estate-analysis/main.png" alt="Swiss Real Estate Analysis"></a></td>
     <td><a href="https://github.com/dominik117/", target="_blank"><img src="images/main.png" alt="Project 4"></a></td>
   </tr>
   <tr>
