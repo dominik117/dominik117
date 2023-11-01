@@ -11,55 +11,11 @@ Welcome to the GitHub profile of **Dominik Bacher**.
 
 ## My Top 6 Projects:
 
-<!-- First Row -->
-<div>
-  <div style="float: left; width: 33%; padding: 1%; display: flex;">
-    <a href="link_to_project_1">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
-    </a>
-    <p align="center">Project 1 Name</p>
-  </div>
-  <div style="float: left; width: 33%; padding: 1%;">
-    <a href="link_to_project_2">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 2" width="100%">
-    </a>
-    <p align="center">Project 2 Name</p>
-  </div>
-  <div style="float: left; width: 33%; padding: 1%;">
-    <a href="link_to_project_3">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 3" width="100%">
-    </a>
-    <p align="center">Project 3 Name</p>
-  </div>
-</div>
-
-<!-- Clear floating elements -->
-<div style="clear: both;"></div>
-
-<!-- Second Row -->
-<div>
-  <div style="float: left; width: 33%; padding: 1%;">
-    <a href="link_to_project_4">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 4" width="100%">
-    </a>
-    <p align="center">Project 4 Name</p>
-  </div>
-  <div style="float: left; width: 33%; padding: 1%;">
-    <a href="link_to_project_5">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 5" width="100%">
-    </a>
-    <p align="center">Project 5 Name</p>
-  </div>
-  <div style="float: left; width: 33%; padding: 1%;">
-    <a href="link_to_project_6">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 6" width="100%">
-    </a>
-    <p align="center">Project 6 Name</p>
-  </div>
-</div>
-
-<!-- Clear floating elements -->
-<div style="clear: both;"></div>
+| [![Project 1](images/cortexia_darkzones_prediction/main.png)](link_to_project_1) | [![Project 2](images/cortexia_darkzones_prediction/main.png)](link_to_project_2) | [![Project 3](images/cortexia_darkzones_prediction/main.png)](link_to_project_3) |
+|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+|                                 **Project 1 Name**                                |                                 **Project 2 Name**                                |                                 **Project 3 Name**                                |
+| [![Project 4](images/cortexia_darkzones_prediction/main.png)](link_to_project_4) | [![Project 5](images/cortexia_darkzones_prediction/main.png)](link_to_project_5) | [![Project 6](images/cortexia_darkzones_prediction/main.png)](link_to_project_6) |
+|                                 **Project 4 Name**                                |                                 **Project 5 Name**                                |                                 **Project 6 Name**                                |
 
 _Images created using DALL·E 3._
 
