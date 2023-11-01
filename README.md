@@ -59,49 +59,49 @@ Welcome to the GitHub profile of **Dominik Bacher**.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 1; max-width: calc(33.33% - 2%); margin: 1%;">
     <a href="link_to_project_1">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="32%">
     </a>
     <p align="center">Cortexia Darkzones Prediction</p>
   </div>
   <!-- Repeat the above div structure for each project -->
   <div style="flex: 1; max-width: calc(33.33% - 2%); margin: 1%;">
     <a href="link_to_project_1">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="32%">
     </a>
     <p align="center">Cortexia Darkzones Prediction</p>
   </div>
   <!-- Repeat the above div structure for each project -->
   <div style="flex: 1; max-width: calc(33.33% - 2%); margin: 1%;">
     <a href="link_to_project_1">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="32%">
     </a>
     <p align="center">Cortexia Darkzones Prediction</p>
   </div>
   <!-- Repeat the above div structure for each project -->
   <div style="flex: 1; max-width: calc(33.33% - 2%); margin: 1%;">
     <a href="link_to_project_1">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="32%">
     </a>
     <p align="center">Cortexia Darkzones Prediction</p>
   </div>
   <!-- Repeat the above div structure for each project -->
   <div style="flex: 1; max-width: calc(33.33% - 2%); margin: 1%;">
     <a href="link_to_project_1">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="32%">
     </a>
     <p align="center">Cortexia Darkzones Prediction</p>
   </div>
   <!-- Repeat the above div structure for each project -->
   <div style="flex: 1; max-width: calc(33.33% - 2%); margin: 1%;">
     <a href="link_to_project_1">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="32%">
     </a>
     <p align="center">Cortexia Darkzones Prediction</p>
   </div>
   <!-- Repeat the above div structure for each project -->
   <div style="flex: 1; max-width: calc(33.33% - 2%); margin: 1%;">
     <a href="link_to_project_1">
-      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="100%">
+      <img src="images/cortexia_darkzones_prediction/main.png" alt="Project 1" width="32%">
     </a>
     <p align="center">Cortexia Darkzones Prediction</p>
   </div>
