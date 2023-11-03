@@ -25,7 +25,7 @@ Welcome to the GitHub profile of **Dominik Bacher**.
   </tr>
   <tr>
     <td><a href="https://github.com/dominik117/ai-lens-for-markets", target="_blank"><img src="images/ai-lens-for-markets/main.png" alt="AI Lens For Markets"></a></td>
-    <td><a href="https://github.com/dominik117/", target="_blank"><img src="images/main.png" alt="Project 6"></a></td>
+    <td><a href="https://github.com/dominik117/python_address_book", target="_blank"><img src="images/python_address_book/main.png" alt="Python Address Book"></a></td>
   </tr>
 </table>
 
