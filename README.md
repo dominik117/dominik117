@@ -15,7 +15,7 @@ Welcome to the GitHub profile of **Dominik Bacher**.
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td><a href="https://github.com/dominik117/cortexia_darkzones_prediction", target="_blank"><img src="images/cortexia_darkzones_prediction/main.png" alt="Cortexia Darkzones Prediction"></a></td>
+    <td><a href="https://github.com/dominik117/optibot", target="_blank"><img src="images/optibot/main.png" alt="Optibot - LLM Powered Chat Optimization"></a></td>
     <td><a href="https://github.com/dominik117/cortexia_darkzones_prediction", target="_blank"><img src="images/cortexia_darkzones_prediction/main.png" alt="Cortexia Darkzones Prediction"></a></td>
   </tr>
   <tr>
@@ -23,7 +23,7 @@ Welcome to the GitHub profile of **Dominik Bacher**.
     <td><a href="https://github.com/dominik117/IMDb_NLP_Insighter", target="_blank"><img src="images/IMDb_NLP_Insighter/main.png" alt="IMDb NLP Insighter"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/dominik117/ai-lens-for-markets", target="_blank"><img src="images/ai-lens-for-markets/main.png" alt="AI Lens For Markets"></a></td>
+    <td><a href="https://github.com/dominik117/ai-market-lens", target="_blank"><img src="images/ai-market-lens/main.png" alt="AI Lens For Markets"></a></td>
     <td><a href="https://github.com/dominik117/python_address_book", target="_blank"><img src="images/python_address_book/main.png" alt="Python Address Book"></a></td>
   </tr>
 </table>
