@@ -15,13 +15,12 @@ Welcome to the GitHub profile of **Dominik Bacher**.
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td><a href="https://github.com/dominik117/cortexia_darkzones_prediction", target="_blank"><img src="images/cortexia_darkzones_prediction/main.png" alt="Cortexia Darkzones P
-    rediction"></a></td>
-    <td><a href="https://github.com/dominik117/IMDb_NLP_Insighter", target="_blank"><img src="images/IMDb_NLP_Insighter/main.png" alt="IMDb NLP Insighter"></a></td>
+    <td><a href="https://github.com/dominik117/cortexia_darkzones_prediction", target="_blank"><img src="images/cortexia_darkzones_prediction/main.png" alt="Cortexia Darkzones Prediction"></a></td>
+    <td><a href="https://github.com/dominik117/cortexia_darkzones_prediction", target="_blank"><img src="images/cortexia_darkzones_prediction/main.png" alt="Cortexia Darkzones Prediction"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/dominik117/swiss-real-estate-analysis", target="_blank"><img src="images/swiss-real-estate-analysis/main.png" alt="Swiss Real Estate Analysis"></a></td>
-    <td><a href="https://github.com/dominik117/", target="_blank"><img src="images/main.png" alt="Project 4"></a></td>
+    <td><a href="https://github.com/dominik117/IMDb_NLP_Insighter", target="_blank"><img src="images/IMDb_NLP_Insighter/main.png" alt="IMDb NLP Insighter"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/dominik117/ai-lens-for-markets", target="_blank"><img src="images/ai-lens-for-markets/main.png" alt="AI Lens For Markets"></a></td>
